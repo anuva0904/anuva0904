@@ -1,6 +1,12 @@
 <h1 align="center">Hi 👋, I'm Anuva Singh</h1>
 <h3 align="center">Passionate software developer and aspiring technologist interested in building scalable web applications, with a focus on backend development.</h3>
 
+- 🔭 I’m currently working on [CoNote](https://github.com/anuva0904/CoNote)
+
+- 📫 How to reach me **singhanuva4@gmail.com**
+
+- 📄 Know about my experiences [https://drive.google.com/file/d/1D9W0wDUfzs2WMSF7-yY6sOXMAtWFZcMk/view?usp=sharing](https://drive.google.com/file/d/1D9W0wDUfzs2WMSF7-yY6sOXMAtWFZcMk/view?usp=sharing)
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
@@ -13,4 +19,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=anuva0904&show_icons=true&locale=en" alt="anuva0904" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=anuva0904&" alt="anuva0904" /></p>
-
